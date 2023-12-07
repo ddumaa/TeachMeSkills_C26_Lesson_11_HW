@@ -7,6 +7,6 @@ public class DuplicatingLetters {
             sb.append(i);
             sb.append(i);
         }
-        System.out.println(sb.toString());
+        System.out.println(sb);
     }
 }
